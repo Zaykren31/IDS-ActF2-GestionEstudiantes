@@ -1,6 +1,6 @@
 # Sistema de Gestión de Estudiantes (Java POO)
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 Esta aplicación es un desarrollo simple en **Java** diseñado para demostrar los conceptos fundamentales de la **Programación Orientada a Objetos (POO)**:
 - **Declaración de Clases y Definición de Atributos** con encapsulamiento (`private`).
 - **Instanciación de Objetos** utilizando constructores por defecto y parametrizados.
@@ -9,7 +9,7 @@ Esta aplicación es un desarrollo simple en **Java** diseñado para demostrar lo
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 GestionEstudiantesPOO/
@@ -26,7 +26,7 @@ GestionEstudiantesPOO/
 
 ---
 
-## 💻 Conceptos Clave de POO Aplicados
+## Conceptos Clave de POO Aplicados
 
 ### 1. Clases y Atributos
 - `Estudiante`: Representa un alumno con matrícula, nombre, carrera, semestre y una lista de calificaciones.
@@ -43,7 +43,7 @@ GestionEstudiantesPOO/
 
 ---
 
-## 🚀 Cómo Compilar y Ejecutar
+## Cómo Compilar y Ejecutar
 
 ### Opción A: Desde Terminal (CLI)
 1. Abrir la terminal en la raíz del proyecto.
@@ -75,4 +75,3 @@ git push -u origin main
 ```
 
 ---
-*Desarrollado para la Actividad Fundamental F2 de Ingeniería y Tecnologías de la Información.*
